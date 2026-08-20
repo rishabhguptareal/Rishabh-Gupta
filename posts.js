@@ -1,66 +1,132 @@
 const posts = [
-{
-slug:"what-im-actually-building-for",
-title:"what i'm actually building for.",
-publishedAt:"2026-08-18",
-summary:"the three sentences that hold the rest of the work up.",
-content:`<p>I have written 10 essays on this site about what I'm doing, why I'm doing it, and how I'm thinking. I haven't yet written the simplest thing — the three sentences that are underneath the work.</p>
-<p>Most people don't know what they're working for. I didn't know either, for a long time. I had money goals and status goals and the kind of generic <em>be successful</em> goal that doesn't actually direct any specific Tuesday. The goals didn't tell me what to do on Tuesday because they weren't goals. They were vibes.</p>
-<p>Sometime in 2026 I sat down and asked myself the question more carefully. <em>What am I actually building for? When I imagine the rest of my life, what does it look like when it has gone well?</em> I wrote down three sentences. The three sentences are the floor of everything I do now. I want to put them on the site so other people can see them and so I can see them again when I forget.</p>
-<hr>
-<h2>one: my parents don't worry about me financially</h2>
-<p>Most of what I work on is downstream of this.</p>
-<p>My mom worked her butt off for twenty years. My dad has been picking up Justin and me from airports and paying tuition bills for as long as I can remember. They came from places — Korea, Taiwan — where their parents had less, and they built a life that gave their kids more. The third-generation jump is the jump they made. The cost of that jump is mostly invisible from the inside. The cost was their twenties, their thirties, the things they didn't do because the kids needed something.</p>
-<p>The first goal is to pay that back, structurally.</p>
-<p>By the time I'm 30 I want my parents to be in a position where they do not have to think about money. Where the question <em>can I afford to do this trip</em> never crosses their minds because the answer is permanently yes. Where they can retire when they want to retire. Where the safety net under them is mine to maintain, not theirs.</p>
-<p>This is not about being rich. This is about ending the generational money question in our family. My grandparents had to fight to put food on the table. Habagi was orphaned at three in Seoul. My Fat Grandpa lost his father at four when the Japanese bombed China. My parents had to send their kids overseas and pay tuition while running businesses across a Pacific Ocean. Three generations of fighting the money problem.</p>
-<p>The fourth generation — my generation — should be the one where the money problem stops being the central problem.</p>
-<p>The fact that I take this seriously is why I work on things that have a chance of making real money. OpenClaw, Photon, Moonshot, the dropshipping brand, the marketing thesis. The artistic pieces — the essays, the letters to Grace, the long-form thinking — are downstream of having the money question solved. If the money question isn't solved, the artistic pieces don't exist, because I'm too busy worrying about how my mom is going to pay for her flights to come see me.</p>
-<p>Goal one is the floor. Without goal one, the rest of the goals don't have a chance.</p>
-<hr>
-<h2>two: live a life i'm proud of by embracing leadership</h2>
-<p>This is the goal I have spent the most time running away from.</p>
-<p>For a long time I told myself I was an introvert who shouldn't lead. <em>I work better alone. I don't want the responsibility. The team will work it out.</em> I quit the esports team rather than figure out how to lead it through the slump. I quit Ojas rather than figure out how to manage the partnership. I sit on the perimeter at the Korean Student Association meeting rather than step in.</p>
-<p>The reason I have been running from leadership is that leadership is uncomfortable. You have to make decisions for other people. You have to be responsible for outcomes that aren't only about you. You have to be the person whose ego is on the table when the project fails.</p>
-<p>I have a complicated history with my own ego. As a kid I had a big one. I was the <em>know-it-all</em> at Kang Chiao in fourth grade who got bullied for it. I was the kid at the charity event who ran away from classmates who wanted to work together because I wanted all the credit. I was the kid who couldn't accept feedback from anyone because I assumed I knew better.</p>
-<p>In college I overcorrected. I shrank the ego. I stopped trying to lead. I told myself the small-ego version of me was the <em>spiritually correct</em> version. The Christian humble version.</p>
-<p>What I figured out, slowly, is that the ego that made me a know-it-all at 8 is the same ego that made me magnetic when I tried to lead the soccer team at AAIA, that made me effective as the IGL on the Valorant team, that made it possible for me to give a goodbye speech at school and feel the room respond to me. The ego is not the problem. The <em>misdirected</em> ego was the problem at 8. The <em>suppressed</em> ego was the problem at 18. The <em>channeled</em> ego is what I want to build at 25.</p>
-<p>The second goal is to embrace leadership. Not the kind where I dominate the room. The kind where I see growth in other people and help them produce it.</p>
-<p>Watching Justin grow up is what taught me this. Watching the people I've mentored — Grace, Ellia, the people on the team in SF, even Ojas before I left — has shown me that mentorship is enjoyable. The growth in someone else is the most rewarding thing I have access to. It is more rewarding than building. The build moves the wheel. The mentorship moves the person.</p>
-<p>I would rather be a person who moves people than a person who only moves wheels. The second goal is the goal of becoming the second kind of person.</p>
-<hr>
-<h2>three: hire my friends so they can see the world with me</h2>
-<p>This is the strangest of the three goals on its surface and the one I am most certain about.</p>
-<p>The traditional success story is: you make money, you buy nice things, you live in a big house, you go on solo trips to Italy. The friends are people you see occasionally. The wealth is for you.</p>
-<p>I don't want that version. The version I want is one where the money is the medium for <em>moving the people I care about with me.</em> The success is collective. The trips aren't solo. The big house is a house where my friends and I are working on stuff together, eating dinner together, raising kids together, getting older together.</p>
-<p>The version of this that I think is realistic is: I build companies that make enough money to employ the people I care about, at salaries good enough that they would prefer working with me to working anywhere else, doing work that they care about, in places they want to be.</p>
-<p>Some of my closest friends are people I have only met because we both wanted to build. If I'm honest, almost all of them are. The OpenClaw friends, the SF founders, the marketing operators. The friendship and the work are entangled. I don't want to disentangle them. I want to scale them.</p>
-<p>The third goal is the <em>bring the friends with me</em> goal. Hire them. Pay them. Give them equity. Take them to YC. Take them to SF for a month. Take them to Taipei. Build the kind of life where the friend group I have at 25 is the same friend group I have at 50, because we worked on enough things together that we couldn't be separated even if we wanted to be.</p>
-<p>This is a real thing some people do. Patrick and John Collison built Stripe together. The Founders Fund crew worked on PayPal together. The Apple crew built Apple together. The pattern is <em>find your people, build with them, keep building with them, and the building keeps the friendship alive in a way that ordinary friendship doesn't.</em></p>
-<p>This is the goal I am most certain of and the goal I am most aware of failing at right now. I quit Ojas. I let go of friends I should have kept building with. I have been pursuing the work in a way that has cost me the people. The third goal exists partly to correct that. The work and the people have to grow together or the work doesn't mean anything.</p>
-<hr>
-<h2>why these three and not others</h2>
-<p>I want to say what these three goals are <em>not.</em></p>
-<p>They are not <em>change the world.</em> I do not have a save-humanity goal. I think that goal makes most people who hold it worse, not better. The save-humanity goal becomes an excuse to ignore your family and your friends and your body in the name of a larger mission that mostly isn't real. The three goals above are smaller and more specific and harder to lie to yourself about.</p>
-<p>They are not <em>achieve maximum status.</em> I am not optimizing for legacy or for how many people remember me when I am gone. The gravestone test I have been using — <em>what is the quality of impact on the specific people who came to the funeral</em> — is a different test than the status test. Status optimizes for a wider audience. Quality of impact optimizes for a narrower one.</p>
-<p>They are not <em>be happy.</em> Happiness is a byproduct, not a goal. I have written about this in <em>the box of memories</em> — happiness is what you feel when your now is better than your before. It is not the thing you chase directly. The three goals above will, if I pull them off, produce a lot of happiness. They are not happiness goals, though. They are <em>built-life goals.</em></p>
-<p>They are not <em>follow my passion.</em> I don't fully know what my passion is. I have a strong sense that I am a builder, that marketing is my medium, that the AI-skills layer is the bet I want to make, but the passion is downstream of the work, not the other way around. The three goals above don't require me to have figured out the passion. They require me to do the work that the people who shaped me would be proud of.</p>
-<hr>
-<h2>where i am with them</h2>
-<p>The three goals are the floor. They are not the ceiling.</p>
-<p>Goal one is partially solved. My parents do not worry about me, mostly. They worry about other things. They probably always will. The deeper version of the goal — where they stop worrying about money entirely — is at least a decade away. I am working toward it.</p>
-<p>Goal two is the goal I am furthest from. I have not yet stepped into leadership in the way the goal requires. I am still in the build-alone phase. The next chapter of my life — probably starting in the next two years — has to be the leadership chapter. I have not yet started it.</p>
-<p>Goal three is the goal I am most actively running from. The work has been costing me the people, not bringing them along. Ojas was a mistake. The friends I have ghosted were mistakes. The friends I have kept have been kept by accident, not by design. The third goal requires me to design the friend group. I have not done it.</p>
-<p>I will probably spend the rest of my life working on these three goals and they will probably never be fully complete. That's fine. They are the goals. The work is the work.</p>
-<p>If anyone reads this and is trying to figure out their own three sentences — try the same exercise. <em>What are you actually working for? When you imagine the rest of your life going well, what does it look like?</em> Write three sentences. Be specific enough that you'd know how to spend a Tuesday differently because of them. Be small enough that you can't lie to yourself about whether you're moving toward them.</p>
-<p>The three sentences are the floor of the rest of the work.</p>
-<p>Without them, the work doesn't direct anything.</p>
-<p class="end-note">three goals. one floor. work going.</p>`
-},
+    {
+        title: 'Your Product Might Not Need More Features. It Might Need Better Positioning.',
+        publishedAt: '2026-08-20',
+        summary: 'Sometimes the product doesn’t need another feature. It needs a better explanation.',
+        content: `
+      My college chairman has no idea that his daughter is my girlfriend, but today fate decided to test my survival skills.
+      
+      We were peacefully eating ice cream, minding our own business, when suddenly the Chairman, his wife, AND his two bouncers walked into the same ice cream parlor.
+      
+      I genuinely froze.
+      
+      For a solid 5 seconds, neither of us knew what to do.
+      
+      We just looked at each other like:
+      
+      > “Yeah… we're fucked.”
+      
+      Me standing there like:
+      
+      > “Yep. This is where my academic career, relationship, and soul all get rejected in one go.”
+      
+      The Chairman started interrogating me:
+      
+      - Why are you here with my daughter?
+      - Give me your father's phone number.
+      - When will you pay your college fees?
+      
+      And those two bouncers were looking at me like they had already decided I wasn't leaving that place alive.
+      
+      But somehow, his wife saved us.
+      
+      Later, as someone obsessed with growth, I kept thinking about one thing this incident made me realize:
+      
+      **Positioning.**
+      
+      Just think about it.
+      
+      My Chairman didn't know the full story.
+      
+      He saw one situation, had very little information, and immediately formed an opinion about me based on the feeling he had about me.
+      
+      And honestly, customers do the exact same thing with products.
+      
+      > They don't know everything you've built.
+      >
+      > They don't care that your backend is 40% faster.
+      >
+      > *(Actually, nobody cares. Except you.)*
+      >
+      > They don't know you have 17 features your competitor doesn't.
+      
+      They just see your product for 30 seconds and build a mental shortcut based on the feeling they get from how you have positioned it.
+      
+      And that perception can matter more than the actual number of features your product has.
+      
+      If your positioning makes a product feel:
+      
+      > **Expensive** → people assume it's premium.
+      >
+      > **Cheap** → people assume it's low quality.
+      >
+      > **Familiar** → people assume it's safe.
+      
+      And the interesting part?
+      
+      None of these perceptions necessarily have to be objectively true.
+      
+      That's the power of positioning.
+      
+      A technically better product can still lose if customers don't understand what makes it better, who it's for, or why they should care.
+      
+      Because customers aren't comparing your entire product specification sheet.
+      
+      They're comparing their perception of your product with their perception of the alternatives.
+      
+      And this is where I think startups often make the wrong move when growth slows down.
+      
+      They add another feature.
+      
+      Then another.
+      
+      Then another 10 features.
+      
+      When the real problem might not be the product at all.
+      
+      The real problem is that nobody understands why they should care.
+      
+      ### Here's an example.
+      
+      If I tell you:
+      
+      > “Our software has 27 features, 12 integrations, AI automation, and a faster API.”
+      
+      You still might not care.
+      
+      But if I tell you:
+      
+      > “It replaces the three tools your sales team uses every morning.”
+      
+      Now you have a reason to pay attention.
+      
+      Nothing about the product necessarily changed.
+      
+      The meaning of the product changed.
+      
+      As a marketer, growth guy, or solopreneur, your job isn't just to tell people what your product does.
+      
+      It's to make the right customer understand what it's better for, and why that difference matters.
+      
+      Because customers don't buy your feature list.
+      
+      They buy the meaning they attach to those features.
+      
+      And if you lose at the perception stage, having the better product may not matter.
+      
+      **Sometimes the product doesn't need another feature.**
+      
+      **It needs a better explanation.**
+      
+      Peace out!!
+      
+      Thanks for reading till here.
+      `
+      },
 {
 slug:"things-i-believe-in",
 title:"Things i believe in",
-publishedAt:"2025-10-08",
+publishedAt:"2026-6-03",
 summary:"key hooks i think about at times when i feel astray",
 content:`<ul class="beliefs"><li>how smart a person is just how fast he can learn something new</li><li>it is not hard, it is just new</li><li>iteration in the right direction * consistency = freedom</li><li>how capable you are depends on where your fav dopamine hit comes from</li><li>you can just do things</li><li>preserving time and energy is what matters, rest can come back</li><li>fc barcelona is the best club in the world</li><li>the greatest of all time have things written down in a book but you choose not to read</li><li>"nothing helps; i must help myself, or i am finished" - neitzsche</li><li>code and media are the best forms of leverage</li><li>you are the average of five people rule stands true everywhere in all spheres of life</li><li>the opinions you think are your own are almost never really your own, it's always conditioned unless it's a fact</li><li>everything in your life today is a result of the butterfly effect</li><li>being fast with what you do is always better - high agency above all</li><li>reading, writing, meditating, exercising has resulted in great things for whoever tried</li><li>you are dying daily, today is the last today</li></ul><p class="end-note">more on the way..</p>`
 },
